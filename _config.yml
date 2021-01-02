@@ -1,6 +1,6 @@
-title: Your awesome title
+title: Project Documentation
 lang: en
-description: Write an awesome description for your new site here
+description: Documentation of Python implementation to control a Lego Technic Hub via Bluetooth with a Raspberry Pi 4B
 
 ## local method ##
 # theme: jekyll-rtd-theme
