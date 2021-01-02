@@ -1,3 +1,6 @@
+---
+title: Project
+---
 # Controlling the Lego Technics Hub (Hub 2) via Bluetooth (btle) using a Rasperry Pi 4B
 A school project that shows how to control a Lego Jeep with Bluetooth on the Raspberry Pi 4B.
 The Sources can be found on [github](https://github.com/DietrichChristopeit/project-cimino/)
